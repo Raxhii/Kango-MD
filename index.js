@@ -69,7 +69,7 @@ require("./plugins/" + plugin);
 console.log('Plugins installed successful ✅')
 console.log('Bot connected to whatsapp ✅')
 
-let up = `KANGO MD connected successful ✅\n\nPREFIX: ${prefix}`;
+let up = `𝐊𝐚𝐧𝐠𝐨-𝐌𝐃 connected successful ✅\n\nPREFIX: ${prefix}`;
 
 conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://files.catbox.moe/q1k87h.jpg` }, caption: up })
 
