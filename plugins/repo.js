@@ -15,7 +15,7 @@ let dec = `*👋 Hello ${pushname}*
           
 📍𝖱𝖾𝗉𝗈 𝖫𝗂𝗇𝗄 ❤️‍🔥👇
 
-👨‍💻◦ https://github.com/OfficialHectorManuel/Kango-MD.git
+👨‍💻◦ https://github.com/OfficialHectorManuel/Kango-MD
 
 📍𝖯𝗅𝖾𝖺𝗌𝖾 𝖲𝗎𝖻𝗌𝖼𝗋𝗂𝖻𝖾 𝖬𝗒 𝖸𝗈𝗎𝗍𝗎𝖻𝖾 𝖢𝗁𝖺𝗇𝗇𝖾𝗅 👇
 
@@ -25,7 +25,7 @@ let dec = `*👋 Hello ${pushname}*
 
 👨‍💻◦ https://whatsapp.com/channel/0029Va8YUl50bIdtVMYnYd0E
 
-> *©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴛᴇᴄʜ*
+> *©▂▃▅▇█▓▒░𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝙱𝚢 𝙷𝚎𝚌𝚝𝚘𝚛 𝙼𝚊𝚗𝚞𝚎𝚕░▒▓█▇▅▃▂*
 `
 await conn.sendMessage(from,{image:{url: `https://files.catbox.moe/n5vvij.jpg`},caption:dec},{quoted:mek});
 
