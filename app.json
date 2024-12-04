@@ -1,23 +1,23 @@
 {
-  "name": "MIKU-MD",
-  "description": "Javascript WhatsApp bot made by ᴍᴀʟᴠɪɴ ᴋɪɴɢ",
-  "logo": "https://files.catbox.moe/n5vvij.jpg",
+  "name": "Kango-MD",
+  "description": " WhatsApp bot made by Hector Manuel",
+  "logo": "https://files.catbox.moe/q1k87h.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "Enter session-id here.",
       "required": true
     },  
 
     "ALIVE_IMG": {
-      "description": "Put your alive img here.",
+      "description": "Add your alive img here.",
       "required": true
     },
     
     "ALIVE_MSG": {
-      "description": "Put your alive msg here.",
+      "description": "Add your alive msg here.",
       "required": true
     }   
 },
