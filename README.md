@@ -101,7 +101,7 @@ jobs:
 ## CREDITS 
 # `Owner`
 
- <a href="https://files.catbox.moe/q1k87h.jpg"><img src="https://files.catbox.moe/q1k87h.jpg" width="250" height="250" alt=" HECTOR MANUEL"/></a>
+ <a href="https://files.catbox.moe/q1k87h.jpg"><img src="https://files.catbox.moe/q1k87h.jpg" width="250" height="300" alt=" HECTOR MANUEL"/></a>
 
 ---
 ### CREATED BY:
@@ -113,6 +113,6 @@ jobs:
  
  ### WHATSAPP CHANNLE 👇
  <p align="left">
-<a href='https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z' target="_blank"><img alt='WhatsApp Channel' src='https://img.shields.io/badge/-WhatsApp Channel-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=120 height=39/p></a>
+<a href='[https://whatsapp.com/channel/0029Va8YUl50bIdtVMYnYd0E](https://whatsapp.com/channel/0029Va8YUl50bIdtVMYnYd0E)' target="_blank"><img alt='WhatsApp Channel' src='https://img.shields.io/badge/-WhatsApp Channel-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=120 height=39/p></a>
 
 
