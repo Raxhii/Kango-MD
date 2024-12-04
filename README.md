@@ -1,4 +1,4 @@
- **🧚‍♀️ 𝐐𝐔𝐄𝐄𝐍 𝐌𝐈𝐊𝐔 𝐌𝐃**
+ **🧚‍♀️ KANGO MD**
 
 
 </p> <p align="center">
@@ -6,7 +6,7 @@
 ---
 1. Fork The Repo
     <br>
-<a href="https://github.com/kingmalvn/MIKU-MD/fork"><img title="QUEEN-MIKU-MD" src="https://img.shields.io/badge/FORK QUEEN-MIKU-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/OfficialHectorManuel/Kango-MD/fork"><img title="KANGO-MD" src="https://img.shields.io/badge/FORK QUEEN-MIKU-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 ![forks](https://img.shields.io/github/forks/kingmalvn/MIKU-MD?label=Forks&style=social)
 
@@ -20,8 +20,8 @@
 <br>
 
   <p align="center">  
-  <a href="https://files.catbox.moe/n5vvij.jpg">
-    <img alt="queen-miku" height="200" src="https://files.catbox.moe/n5vvij.jpg">
+  <a href="https://files.catbox.moe/q1k87h.jpg">
+    <img alt="KANGO-MD" height="200" src="https://files.catbox.moe/q1k87h.jpg">
     
    Loading...
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
