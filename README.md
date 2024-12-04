@@ -45,7 +45,7 @@
 ---
 **3. Deploy to HEROKU ↓**
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kingmalvn/MIKU-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OfficialHectorManuel/Kango-MD)
 
  **4.  Deploy to RENDER ↓**
 
@@ -101,15 +101,15 @@ jobs:
 ## CREDITS 
 # `Owner`
 
- <a href="https://github.com/kingmalvn"><img src="https://github.com/kingmalvn.png" width="250" height="250" alt=" Malvin King"/></a>
+ <a href="https://files.catbox.moe/q1k87h.jpg"><img src="https://files.catbox.moe/q1k87h.jpg" width="250" height="250" alt=" HECTOR MANUEL"/></a>
 
 ---
 ### CREATED BY:
-1. ### Malvin King 
+1. ### HECTOR MANUEL
 
 ## MY YT CHANNEL
 
-[![Youtube](https://telegra.ph/file/eebe86c26e98ffeae39ea.jpg)](https://youtube.com/@malvintech2) 
+[![Youtube](https://telegra.ph/file/eebe86c26e98ffeae39ea.jpg)](https://youtube.com/@official_manuel) 
  
  ### WHATSAPP CHANNLE 👇
  <p align="left">
