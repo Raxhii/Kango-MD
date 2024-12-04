@@ -36,7 +36,7 @@ let dec = `╭───────────────◎◎▷
 ╰───────────────◎◎▷
 > © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴋɪɴɢ
 `
-await conn.sendMessage(from,{image:{url: `https://files.catbox.moe/n5vvij.jpg`},caption:dec},{quoted:mek});
+await conn.sendMessage(from,{image:{url: `https://files.catbox.moe/q1k87h.jpg`},caption:dec},{quoted:mek});
 
 }catch(e){
 console.log(e)
