@@ -6,7 +6,7 @@
 ---
 1. Fork The Repo
     <br>
-<a href="https://github.com/OfficialHectorManuel/Kango-MD/fork"><img title="KANGO-MD" src="https://img.shields.io/badge/FORK QUEEN-MIKU-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/OfficialHectorManuel/Kango-MD/fork"><img title="KANGO-MD" src="https://img.shields.io/badge/FORK KANGO-MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 ![forks](https://img.shields.io/github/forks/kingmalvn/MIKU-MD?label=Forks&style=social)
 
