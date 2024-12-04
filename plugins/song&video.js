@@ -16,7 +16,7 @@ const search = await yts(q)
 const data = search.videos[0]
 const url = data.url
 
-let desc = `╭━❮◆ MIKU MD SONG DOWNLOADER ◆❯━╮
+let desc = `╭━❮◆ KANGO MD SONG DOWNLOADER ◆❯━╮
 
 ┃➤✰ 𝚃𝙸𝚃𝙻𝙴 : ${data.title}
 
@@ -30,7 +30,7 @@ let desc = `╭━❮◆ MIKU MD SONG DOWNLOADER ◆❯━╮
 ╰━━━━━━━━━━━━━━━⪼
 
 
-> ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴋɪɴɢ
+> ©▂▃▅▇█▓▒░𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝙱𝚢 𝙷𝚎𝚌𝚝𝚘𝚛 𝙼𝚊𝚗𝚞𝚎𝚕░▒▓█▇▅▃▂
 `
 await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek});
 
@@ -41,7 +41,7 @@ let downloadUrl = down.dl_url
 
 //send audio
 await conn.sendMessage(from,{audio:{url: downloadUrl},mimetype:"audio/mpeg"},{quoted:mek})
-await conn.sendMessage(from,{document:{url: downloadUrl},mimetype:"audio/mpeg",fileName:data.title + "mp3",caption:"©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴋɪɴɢ"},{quoted:mek})
+await conn.sendMessage(from,{document:{url: downloadUrl},mimetype:"audio/mpeg",fileName:data.title + "mp3",caption:"©▂▃▅▇█▓▒░𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝙱𝚢 𝙷𝚎𝚌𝚝𝚘𝚛 𝙼𝚊𝚗𝚞𝚎𝚕░▒▓█▇▅▃▂"},{quoted:mek})
 }catch(e){
 reply(`${e}`)
 }
@@ -63,7 +63,7 @@ const search = await yts(q)
 const data = search.videos[0]
 const url = data.url
 
-let des = `╭━❮◆ MIKU MD VIDEO DOWNLOADER ◆❯━╮
+let des = `╭━❮◆ KANGO MD VIDEO DOWNLOADER ◆❯━╮
 
 ┃➤✰ 𝚃𝙸𝚃𝙻𝙴 : ${data.title}
 
