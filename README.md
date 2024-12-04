@@ -16,8 +16,9 @@
 
 
 <br>
-• Best and fast whatsapp bot
+• GOD OF WHATSAPP BOTS
 <br>
+
 
   <p align="center">  
   <a href="https://files.catbox.moe/q1k87h.jpg">
