@@ -2,7 +2,7 @@ const config = require('../config')
 const {cmd , commands} = require('../command')
 
 cmd({
-    pattern: "kango",
+    pattern: "miku",
     desc: "Check bot online or no.",
     category: "main",
     react: "👋",
@@ -13,19 +13,19 @@ try{
 
 let des = `👋 𝙷𝚎𝚕𝚕𝚘 ${pushname} 𝙸'𝚖 𝚊𝚕𝚒𝚟𝚎 𝚗𝚘𝚠
 
-*Im KANGO-MD Whatsapp Bot Create By HECTOR MANUEL 🍂✨*
+*Im MIKU MD Whatsapp Bot Create By Malvin King 🍂✨*
 
 | *Version*: 1.0.0
 | *Memory*: 38.09MB/7930MB
-| *Owner*: Héctor Manuel
+| *Owner*: Malvin King
 
-I am Kango md whatsapp bot. How can I help you.
-To get the menu, type as menu. If you need to know something about the bot,
+I am Miku md whatsapp bot. How can I help you.
+To get the menu, type as .menu . If you need to know something about the bot,
 type as owner and direct the question to me. Good day.
 
-*°™️𝙷𝙴𝙲𝚃𝙾𝚁 𝙼𝙰𝙽𝚄𝙴𝙻*
+*°᭄🇿🇼™️ 𝙼𝙸𝙺𝚄 𝙼𝙳*
 
-> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴋɪɴɢ`
+ > © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴋɪɴɢ`
 return await conn.sendMessage(from,{image: {url: config.ALIVE_IMG},caption: des},{quoted: mek})
 }catch(e){
 console.log(e)
