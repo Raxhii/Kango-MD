@@ -4,9 +4,9 @@
   "description": "A WhatsApp Bot Created By Hector",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name KANGO-MD",
-    "stop": "pm2 stop MIKU-MD",
-    "restart": "pm2 restart KANGO-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name Kango-MD",
+    "stop": "pm2 stop Kango-MD",
+    "restart": "pm2 restart Kango-MD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.6.0",
