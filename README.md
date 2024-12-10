@@ -35,10 +35,14 @@
     <br>
 
 <p align="left">
-<a href='https://kango-session-6caae8699936.herokuapp.com/' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Pair Code-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=120 height=39/p></a>
+<a href='https://kangopair-f544d8f365f3.herokuapp.com/pair' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Pair Code-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=120 height=39/p></a>
+    
+**2. Web App**
 
+<p align="left">
+<a href='https://kangopair-f544d8f365f3.herokuapp.com/' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Kango App-blue?style=for-the-badge&logo=git&logoColor=white'/< width=115 height=28/p></a>
 
-**1.  Use this if above not workingʻ**
+**3.  Use this if above not workingʻ**
     <br>
 
 <p align="left">
