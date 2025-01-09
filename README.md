@@ -1,16 +1,16 @@
- **🧚‍♀️ KANGO MD**
+ **🧚‍♀️ KANGO XMD**
 
 
 </p> <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F20C39F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=KANGO+MD;MADE+BY+HECTOR+MANUEL" alt="Typing SVG" 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F20C39F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=KANGO+XMD;MADE+BY+HECTOR+MANUEL" alt="Typing SVG" 
 ---
 1. Fork The Repo
     <br>
-<a href="https://github.com/OfficialHectorManuel/Kango-MD/fork"><img title="KANGO-MD" src="https://img.shields.io/badge/FORK KANGO-MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/OfficialHectorManuel/Kango-MD/fork"><img title="KANGO-XMD" src="https://img.shields.io/badge/FORK KANGO-XMD-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
-![forks](https://img.shields.io/github/forks/kingmalvn/MIKU-MD?label=Forks&style=social)
+![forks](https://img.shields.io/github/forks/OfficialHectorManuel/KANGO-XMD?label=Forks&style=social)
 
-![stars](https://img.shields.io/github/stars/kingmalvn/MIKU-MD?style=social)
+![stars](https://img.shields.io/github/stars/OfficialHectorManuel/KANGO-XMD?style=social)
 
 
 
@@ -21,8 +21,8 @@
 
 
   <p align="center">  
-  <a href="https://files.catbox.moe/q1k87h.jpg">
-    <img alt="KANGO-MD" height="200" src="https://files.catbox.moe/q1k87h.jpg">
+  <a href="https://i.imgur.com/05b4RaE.jpeg">
+    <img alt="KANGO-XMD" height="200" src="https://i.imgur.com/05b4RaE.jpeg">
     
    Loading...
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
@@ -35,27 +35,17 @@
     <br>
 
 <p align="left">
-<a href='https://kangopair-f544d8f365f3.herokuapp.com/pair' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Pair Code-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=120 height=39/p></a>
-    
-**2. Web App**
+<a href='https://sahas-md-pair-web-ibx9.onrender.com/' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Pair Code-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=120 height=39/p></a>
 
-<p align="left">
-<a href='https://kangopair-f544d8f365f3.herokuapp.com/' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Kango App-blue?style=for-the-badge&logo=git&logoColor=white'/< width=115 height=28/p></a>
-
-**3.  Use this if above not workingʻ**
-    <br>
-
-<p align="left">
-<a href='https://sahas-md-pair-web-ibx9.onrender.com/' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Pair Code-darkblue?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=120 height=39/p></a>
     
 ---
  **2.  Deploy To Replit**
 
-<a href="https://replit.com"><img title="QUEEN-MIKU Deploy Replit" src="https://img.shields.io/badge/DEPLOY REPLIT-h?color=black&style=for-the-badge&logo=Replit"></a>
+<a href="https://replit.com"><img title="KANGO-XMD Deploy Replit" src="https://img.shields.io/badge/DEPLOY REPLIT-h?color=black&style=for-the-badge&logo=Replit"></a>
 ---
 **3. Deploy to HEROKU ↓**
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OfficialHectorManuel/Kango-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OfficialHectorManuel/KANGO-XMD)
 
  **4.  Deploy to RENDER ↓**
 
@@ -109,13 +99,15 @@ jobs:
 
 
 ## CREDITS 
-# `Owner`
+# `OWNER`
 
  <a href="https://files.catbox.moe/q1k87h.jpg"><img src="https://files.catbox.moe/q1k87h.jpg" width="250" height="300" alt=" HECTOR MANUEL"/></a>
 
 ---
-### CREATED BY:
+### DEVELOPERS:
+
 1. ### HECTOR MANUEL
+2.### MALVIN KING
 
 ## MY YT CHANNEL
 

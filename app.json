@@ -1,25 +1,109 @@
 {
-  "name": "𝐊𝐚𝐧𝐠𝐨-𝐌𝐃",
-  "description": " WhatsApp bot made by Hector Manuel",
-  "logo": "https://files.catbox.moe/q1k87h.jpg",
+  "name": "KANGO-XMD",
+  "description": "ᴛʜᴇ ʙᴇsᴛ ᴡᴀ ʙᴏᴛ ʙʏ ʜᴇᴄᴛᴏʀ ᴍᴀɴᴜᴇʟ.",
+  "logo": "https://i.imgur.com/05b4RaE.jpeg",
   "keywords": ["bot"],
   "success_url": "/",
 
+    "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Enter session-id here.",
-      "required": true
+      "description": "Put the session-id here.",
+      "required": true,
+      "value": ""
     },  
-
+    
     "ALIVE_IMG": {
-      "description": "Add your alive img here.",
-      "required": true
-    },
+      "description": "ALIVE URL.",
+      "required": true,
+      "value": "https://i.imgur.com/05b4RaE.jpeg"
+    }, 
     
     "ALIVE_MSG": {
-      "description": "Add your alive msg here.",
-      "required": true
-    }   
+      "description": " alive message ",
+      "required": true,
+      "value": "HI"
+    },
+    
+    "PREFIX": {
+      "description": " prefix.",
+      "required": true,
+      "value": "."
+    },
+    
+    "MODE": {
+      "description": " public-private-inbox-group.",
+      "required": true,
+      "value": "public"
+    }, 
+
+    "AUTO_VOICE": {
+      "description": " auto voice.",
+      "required": true,
+      "value": "true"
+    }, 
+
+    "AUTO_REPLY": {
+      "description": "auto reply.",
+      "required": true,
+      "value": "true"
+    }, 
+
+    "AUTO_STICKER": {
+      "description": " auto sticker.",
+      "required": true,
+      "value": "true"
+    }, 
+
+    "AUTO_READ_STATUS": {
+      "description": " auto_read_status.",
+      "required": true,
+      "value": "true"
+    }, 
+
+    "ANTI_LINK": {
+      "description": " remove group link.",
+      "required": true,
+      "value": "true"
+    },
+
+    "ANTI_BAD": {
+      "description": " auto delete bad words .",
+      "required": true,
+      "value": "true"
+    }, 
+
+    "FAKE_RECORDING": {
+      "description": " fake record.",
+      "required": true,
+      "value": "true"
+    },
+
+    "AUTO_REACT": {
+      "description": " AutoReact.",
+      "required": true,
+      "value": "true"
+    },
+
+    "OWNER_REACT": {
+      "description": " OwnerReact.",
+      "required": true,
+      "value": "true"
+    
+    }, 
+
+    "BOT_NAME": {
+      "description": " your name.",
+      "required": true,
+      "value": "ᴋᴀɴɢᴏ xᴍᴅ"
+    }, 
+
+    "HEART_REACT": {
+      "description": " reaction .",
+      "required": true,
+      "value": "true"
+    }
+
 },
 
      "buildpacks": [
